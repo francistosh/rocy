@@ -1,0 +1,36 @@
+[16-Jul-2018 21:33:56 Africa/Nairobi] PHP Fatal error:  Call to a member function query() on boolean in /home2/n6z3p4w1/public_html/salon/system/database/drivers/mysqli/mysqli_driver.php on line 221
+[16-Jul-2018 21:34:01 Africa/Nairobi] PHP Fatal error:  Call to a member function query() on boolean in /home2/n6z3p4w1/public_html/salon/system/database/drivers/mysqli/mysqli_driver.php on line 221
+[16-Jul-2018 21:37:08 Africa/Nairobi] PHP Fatal error:  Call to a member function query() on boolean in /home2/n6z3p4w1/public_html/salon/system/database/drivers/mysqli/mysqli_driver.php on line 221
+[16-Jul-2018 21:51:34 Africa/Nairobi] PHP Fatal error:  Call to a member function query() on boolean in /home2/n6z3p4w1/public_html/salon/system/database/drivers/mysqli/mysqli_driver.php on line 221
+[16-Jul-2018 21:53:39 Africa/Nairobi] PHP Fatal error:  Call to a member function query() on boolean in /home2/n6z3p4w1/public_html/salon/system/database/drivers/mysqli/mysqli_driver.php on line 221
+[16-Jul-2018 21:54:16 Africa/Nairobi] PHP Fatal error:  Call to a member function query() on boolean in /home2/n6z3p4w1/public_html/salon/system/database/drivers/mysqli/mysqli_driver.php on line 221
+[16-Jul-2018 22:05:07 Africa/Nairobi] PHP Fatal error:  Call to a member function query() on boolean in /home2/n6z3p4w1/public_html/salon/system/database/drivers/mysqli/mysqli_driver.php on line 221
+[16-Jul-2018 22:05:33 Africa/Nairobi] PHP Fatal error:  Call to a member function query() on boolean in /home2/n6z3p4w1/public_html/salon/system/database/drivers/mysqli/mysqli_driver.php on line 221
+[16-Jul-2018 22:24:57 Africa/Nairobi] PHP Fatal error:  Call to a member function get_where() on null in /home2/n6z3p4w1/public_html/salon/sma/models/Site.php on line 174
+[16-Jul-2018 22:25:01 Africa/Nairobi] PHP Fatal error:  Call to a member function get_where() on null in /home2/n6z3p4w1/public_html/salon/sma/models/Site.php on line 174
+[19-Jul-2018 10:42:37 Africa/Nairobi] PHP Fatal error:  Call to a member function get_where() on null in /home2/n6z3p4w1/public_html/salon/sma/models/Site.php on line 174
+[19-Jul-2018 10:42:41 Africa/Nairobi] PHP Fatal error:  Call to a member function get_where() on null in /home2/n6z3p4w1/public_html/salon/sma/models/Site.php on line 174
+[20-Jul-2018 10:54:53 Africa/Nairobi] PHP Parse error:  syntax error, unexpected 'product_id' (T_STRING) in /home2/n6z3p4w1/public_html/salon/sma/models/Pos_model.php on line 418
+[20-Jul-2018 10:54:57 Africa/Nairobi] PHP Parse error:  syntax error, unexpected 'product_id' (T_STRING) in /home2/n6z3p4w1/public_html/salon/sma/models/Pos_model.php on line 418
+[23-Aug-2018 12:02:37 Africa/Nairobi] PHP Parse error:  syntax error, unexpected ';' in /home2/n6z3p4w1/public_html/salon/themes/default/views/reports/sales.php on line 196
+[23-Aug-2018 12:02:41 Africa/Nairobi] PHP Parse error:  syntax error, unexpected ';' in /home2/n6z3p4w1/public_html/salon/themes/default/views/reports/sales.php on line 196
+[23-Aug-2018 12:25:29 Africa/Nairobi] PHP Parse error:  syntax error, unexpected ';' in /home2/n6z3p4w1/public_html/salon/themes/default/views/reports/payments.php on line 266
+[23-Aug-2018 21:53:29 Africa/Nairobi] PHP Fatal error:  Call to a member function get_where() on null in /home2/n6z3p4w1/public_html/salon/sma/models/Site.php on line 174
+[24-Aug-2018 08:48:36 Africa/Nairobi] PHP Fatal error:  Call to a member function get_where() on null in /home2/n6z3p4w1/public_html/salon/sma/models/Site.php on line 174
+[24-Aug-2018 09:25:12 Africa/Nairobi] PHP Fatal error:  Call to a member function get_where() on null in /home2/n6z3p4w1/public_html/salon/sma/models/Site.php on line 174
+[24-Aug-2018 09:25:31 Africa/Nairobi] PHP Fatal error:  Call to a member function get_where() on null in /home2/n6z3p4w1/public_html/salon/sma/models/Site.php on line 174
+[24-Aug-2018 11:48:45 Africa/Nairobi] PHP Fatal error:  Call to a member function get_where() on null in /home2/n6z3p4w1/public_html/salon/sma/models/Site.php on line 174
+[24-Aug-2018 11:48:50 Africa/Nairobi] PHP Fatal error:  Call to a member function get_where() on null in /home2/n6z3p4w1/public_html/salon/sma/models/Site.php on line 174
+[24-Aug-2018 11:48:54 Africa/Nairobi] PHP Fatal error:  Call to a member function get_where() on null in /home2/n6z3p4w1/public_html/salon/sma/models/Site.php on line 174
+[30-Aug-2018 21:48:29 Africa/Nairobi] PHP Fatal error:  Call to a member function get_where() on null in /home2/n6z3p4w1/public_html/salon/sma/models/Site.php on line 174
+[31-Aug-2018 05:50:46 Africa/Nairobi] PHP Fatal error:  Call to a member function get_where() on null in /home2/n6z3p4w1/public_html/salon/sma/models/Site.php on line 174
+[01-Sep-2018 19:41:40 Africa/Nairobi] PHP Fatal error:  Call to a member function get_where() on null in /home2/n6z3p4w1/public_html/salon/sma/models/Site.php on line 174
+[01-Sep-2018 19:41:54 Africa/Nairobi] PHP Fatal error:  Call to a member function get_where() on null in /home2/n6z3p4w1/public_html/salon/sma/models/Site.php on line 174
+[01-Sep-2018 19:42:18 Africa/Nairobi] PHP Fatal error:  Call to a member function get_where() on null in /home2/n6z3p4w1/public_html/salon/sma/models/Site.php on line 174
+[01-Sep-2018 19:42:30 Africa/Nairobi] PHP Fatal error:  Call to a member function get_where() on null in /home2/n6z3p4w1/public_html/salon/sma/models/Site.php on line 174
+[01-Sep-2018 19:43:41 Africa/Nairobi] PHP Fatal error:  Call to a member function get_where() on null in /home2/n6z3p4w1/public_html/salon/sma/models/Site.php on line 174
+[01-Sep-2018 19:43:52 Africa/Nairobi] PHP Fatal error:  Call to a member function get_where() on null in /home2/n6z3p4w1/public_html/salon/sma/models/Site.php on line 174
+[01-Sep-2018 19:48:45 Africa/Nairobi] PHP Fatal error:  Call to a member function get_where() on null in /home2/n6z3p4w1/public_html/salon/sma/models/Site.php on line 174
+[01-Sep-2018 19:51:26 Africa/Nairobi] PHP Fatal error:  Call to a member function get_where() on null in /home2/n6z3p4w1/public_html/salon/sma/models/Site.php on line 174
+[11-Sep-2018 08:52:35 Africa/Nairobi] PHP Parse error:  syntax error, unexpected ',' in /home2/n6z3p4w1/public_html/salon/sma/controllers/Reports.php on line 870
+[11-Sep-2018 08:52:42 Africa/Nairobi] PHP Parse error:  syntax error, unexpected ',' in /home2/n6z3p4w1/public_html/salon/sma/controllers/Reports.php on line 870
